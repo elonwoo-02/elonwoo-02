@@ -1,0 +1,26 @@
+<svg viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .name { font-family: Georgia, 'Times New Roman', serif; font-size: 58px; fill: #1B1B1B; }
+      .tagline { font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: 16px; letter-spacing: 4px; fill: #6B6B6B; }
+    </style>
+  </defs>
+
+  <!-- paper background -->
+  <rect x="0" y="0" width="900" height="180" rx="6" fill="#FAF7F0" stroke="#E4DCC8" stroke-width="1.5"/>
+
+  <!-- seal mark, top right -->
+  <g transform="translate(818,26)">
+    <rect x="0" y="0" width="46" height="46" rx="3" fill="#B23A2E"/>
+    <rect x="6" y="6" width="34" height="34" rx="1" fill="none" stroke="#FAF7F0" stroke-width="1" opacity="0.6"/>
+  </g>
+
+  <!-- name -->
+  <text x="56" y="92" class="name">Hola, soy Elon</text>
+
+  <!-- thin rule -->
+  <rect x="58" y="108" width="52" height="2" fill="#1B1B1B"/>
+
+  <!-- tagline -->
+  <text x="58" y="138" class="tagline">STUDENT · PROGRAMMER · WRITER</text>
+</svg>
