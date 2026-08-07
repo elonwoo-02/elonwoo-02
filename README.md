@@ -27,7 +27,7 @@
 |---|---|---|
 | Classical Chinese Poetry Column | Six-part series on WeChat, covering the rules and craft of writing classical Chinese poetry | Planned |
 | Vibe-coding Column | Notes and reflections on AI-assisted programming | Planned |
-| Quant Trading Column | Practical notes from a side project on automated trading strategies | Ongoing |
+| [Quant Trading Column](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjU2MTkxMw==&action=getalbum&album_id=4635867741672177670#wechat_redirect) | Practical notes from a side project on automated trading strategies | Ongoing |
 | *Codex Genesis* (《代码创世纪》) | A sci-fi novel structured as a biblical parody, set in a universe of six races, with plot driven by reader choices | Completed on *2140* |
 | Experimental Prose | Exploring Chinese writing that blends technical and humanistic language | Ongoing |
 
