@@ -38,4 +38,4 @@
 - How to know me: <a href="http://www.neu.edu.cn/" target="_blank">Northeastern University</a> | <a href="" target="_blank">Dept. of Computer Science</a>
 - How to reach me: <a href="mailto://gongzi_1076@163.com">gongzi_1076@163.com</a>
 
-![Contribution 3D Terrain](./profile-3d-contrib/profile-gitblock.svg)
+![仓库共现图谱](./contribution-graph.svg)
