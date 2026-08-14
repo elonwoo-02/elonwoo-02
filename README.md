@@ -37,5 +37,3 @@
 - Blog: <a href="https://elon-kernel.pages.dev/blog/">Elon Kernel | Blog</a>
 - How to know me: <a href="http://www.neu.edu.cn/" target="_blank">Northeastern University</a> | <a href="" target="_blank">Dept. of Computer Science</a>
 - How to reach me: <a href="mailto://gongzi_1076@163.com">gongzi_1076@163.com</a>
-
-![仓库共现图谱](./contribution-graph.svg)
